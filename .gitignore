@@ -1,0 +1,10 @@
+/node_modules/
+/public/build/
+package-lock.json
+package.json
+public/
+rollup.config.js
+scripts/
+src/
+
+.DS_Store
